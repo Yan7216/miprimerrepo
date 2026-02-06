@@ -10,3 +10,12 @@ git push
 ## Nota:
 Si no me dice quien soy,entonces tengo que reiniciar la PC
 PORFIN ME SALIOO
+
+# Python
+una variable en python es como sigue:
+```python
+nombre = "ian"
+numero = 777
+flotante = 3.1416
+booleano = True
+```
